@@ -4,6 +4,8 @@
 
 O estagiário tem como responsabilidade a busca de aprendizado e experiência prática.
 
+Ser capaz de se adaptar ao workflow e padrões de desenvolvimento da equipe para no futuro sugerir melhorias.
+
 É capaz de absorver demandas (ainda que desafiadoras) e buscar soluções através da orientação de seu líder técnico.
 
 ## Requisitos
