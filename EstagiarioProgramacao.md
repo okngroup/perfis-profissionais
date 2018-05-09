@@ -11,14 +11,14 @@ Ser capaz de se adaptar ao workflow e padrões de desenvolvimento da equipe para
 ## Requisitos
 
 - Conceitos básicos de HTML, CSS e JavaScript;
-- Funcionamento e uso das estruturas básicas de programação (if, else, else if, for, foreach, while, do/while, switch);
+- Conhecimentos básicos da sintaxe PHP, tais como o funcionamento e uso das estruturas básicas de programação (if, else, else if, for, foreach, while, do/while, switch);
 - Conheça o Apache ou Nginx e consiga executar um projeto PHP.
 - Consiga construir e executar *Queries* SQL através do PHP; 
 
 # Desejável
 
+- Noções de GIT;
 - Familiaridade com Linux e linhas de comando;
-- Conhecimentos básicos da sintaxe PHP.
 
 # Perfil esperado
 
