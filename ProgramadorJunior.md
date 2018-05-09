@@ -41,6 +41,9 @@ Seu foco de atuação é no desenvolvimento de cada unidade de um software, e pa
     - Entenda o que são *branchs*, repositórios locais e remotos e *tags*;
 - Respeita a PSR-1, PSR-2 (mesmo que prefira não seguir em alguns casos);
 
+# Diferencial
+
+- Conheça e consiga trabalhar e estruturar uma API Rest.
 
 # Desejável
 
